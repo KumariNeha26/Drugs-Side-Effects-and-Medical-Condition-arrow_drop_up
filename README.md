@@ -1,4 +1,4 @@
-# Drugs-Side-Effects-and-Medical-Condition-arrow_drop_up
+# Drugs Side Effects and Medical Condition- arrow_drop_up
 Objective
 This project aims to analyze a dataset of various drugs used to treat medical conditions such as acne, cancer, and heart disease. The goal is to identify trends, assess drug safety, and evaluate effectiveness 
 based on user ratings and prescription details.
